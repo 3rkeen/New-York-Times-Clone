@@ -1,98 +1,74 @@
-header {
-  background-color: hotpink;
+.section-img {
+  width: 70rem;
+}
+
+.section-box {
   display: flex;
-  width: 100%;
-  justify-content: space-between;
+  flex-direction: column;
   align-items: center;
-  top: 0;
-  /* position: fixed; */
-  margin-left: -5px;
-  margin-right: 0;
-  flex: 1;
-  height: 50px;
+  border: 10px solid green;
 }
 
-main {
-  background-color: aqua;
-  display: grid;
-}
-
-footer {
-  background-color: red;
-}
-
-.heder-grid {
-  display: grid;
-  grid-area: header;
-}
-
-.main-grid {
-  display: grid;
-  grid-area: main;
-  grid-template-rows: 1fr 1fr 1fr;
-}
-
-.footer-grid {
-  display: grid;
-  grid-area: footer;
-}
-
-.container {
-  display: grid;
-  grid-template-areas:
-    "header"
-    "main"
-    "footer";
-}
-
-.main-pic {
-  background-color: lime;
-}
-
-.article {
-  background-color: mediumblue;
-  display: grid;
-  /* grid-template-columns: 3fr 1fr; */
-  /* grid-template-areas:
-    "article aside"
-    "article aside"; */
-}
-
-.section {
-  background-color: mediumseagreen;
-}
-
-.article-1 {
+.main-box {
   display: flex;
-  background-color: rebeccapurple;
-  /* grid-area: article; */
-  width: 40%;
-  margin: 0 auto;
+  flex-direction: column;
+  align-items: center;
+  border: solid blue;
+}
+.main-box article {
+  width: 25%;
+  border: solid fuchsia;
 }
 
-.aside {
-  background-color: saddlebrown;
-  /* grid-area: aside; */
-  display: flex;
-  /* float: right; */
-  width: 120px;
-}
-
-.main-pic {
-  display: flex;
-  width: 100%;
-  margin: 0 auto;
-}
-
-.main-img {
+main p {
   text-align: center;
 }
 
-figure {
-  width: 70%;
-  margin: 0 auto;
+.article-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 10px solid red;
 }
 
-figure figcaption {
-  text-align: start;
+.side-box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 10rem;
+  border: 10px solid aqua;
+  position: relative;
+  left: 40rem;
+}
+
+.side-box img {
+  width: 5rem;
+}
+
+.inflation-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 10px solid blueviolet;
+
+  width: 70rem;
+  height: 50rem;
+}
+
+.inflation-img {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  width: 70rem;
+  background: url(images/inflation-1.png) no-repeat;
+  background-size: 70rem;
+  height: 50rem;
+}
+
+.inflation-img span {
+  margin-top: 10rem;
+}
+
+.inflation-description {
+  display: flex;
+  width: 15rem;
 }
