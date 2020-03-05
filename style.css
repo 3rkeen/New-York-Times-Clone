@@ -231,10 +231,11 @@ iframe {
   width: 100%;
 }
 
-.grid-1 figcaption {
+.grid-1 span small {
   text-align: right;
   color: rgb(153, 153, 153);
   font-family: nyt-imperial, georgia, "times new roman", times, serif;
+  font-size: x-small;
 }
 
 .grid-1 small {
