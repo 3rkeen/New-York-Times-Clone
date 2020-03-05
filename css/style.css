@@ -1,21 +1,32 @@
+/*start HEADER start*/
+
 .header-box {
   display: flex;
   justify-content: space-between;
-
   align-items: baseline;
 }
 
 .header-item1 {
   display: flex;
-
   flex-basis: 15rem;
   justify-content: space-between;
   margin-left: 1rem;
 }
+
 .header-item2 {
   display: flex;
   align-self: flex-end;
 }
+
+.space-cosmos a {
+  text-decoration: none;
+  color: black;
+}
+
+/*end HEADER end*/
+
+/*start MAIN start*/
+
 .article-1 p {
   font-size: 1.25rem;
   line-height: 1.875rem;
@@ -134,9 +145,7 @@
 .side-box {
   display: grid;
   grid-template-rows: 0.1fr 1fr;
-
   width: 14rem;
-
   position: relative;
   left: 42rem;
   bottom: 10rem;
@@ -222,6 +231,11 @@ iframe {
   color: rgb(250, 250, 250);
   background-color: rgb(50, 104, 145);
 }
+
+/*end MAIN end*/
+
+/*start ARTICLE start*/
+
 .grid-box {
   display: grid;
   grid-template-columns: 1.4fr 0.6fr;
@@ -281,10 +295,12 @@ iframe {
   grid-area: grid-item2;
   width: 15rem;
 }
+
 .grid-item3 {
   grid-area: grid-item3;
   width: 15rem;
 }
+
 .grid-item4 {
   grid-area: grid-item4;
   width: 15rem;
@@ -294,10 +310,12 @@ iframe {
   grid-area: grid-item5;
   width: 15rem;
 }
+
 .grid-item6 {
   grid-area: grid-item6;
   width: 15rem;
 }
+
 .grid-item7 {
   grid-area: grid-item7;
   width: 15rem;
@@ -307,6 +325,7 @@ iframe {
   grid-area: grid-item8;
   width: 15rem;
 }
+
 .grid-item9 {
   grid-area: grid-item9;
   width: 15rem;
@@ -321,11 +340,16 @@ iframe {
   padding: 1rem;
   flex-basis: rem;
 }
+
 .grid-2 h4 {
   border-top: 1px solid black;
   padding: 1rem;
   flex-basis: rem;
 }
+
+/*end ARTICLE end*/
+
+/*start FOOTER start*/
 
 .footer-box {
   display: grid;
@@ -365,3 +389,5 @@ iframe {
 .footer-row3 a {
   font-size: small;
 }
+
+/*end FOOTER end*/

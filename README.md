@@ -13,11 +13,11 @@ The essence of the project is to validate the use of CSS flexbox and grid to dev
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/3rkeen/New-York-Times-Clone/feature/index.html)
 
 ## Getting Started
 
-Click once on the [Live Demo Link](https://livedemo.com)
+Click once on the [Live Demo Link](https://raw.githack.com/3rkeen/New-York-Times-Clone/feature/index.html)
 
 ## Authors
 
@@ -29,9 +29,9 @@ Click once on the [Live Demo Link](https://livedemo.com)
 
 👤 **Author2**
 
-- Github: [@githubhandle](https://github.com/Jmagero)
-- Twitter: [@twitterhandle](https://twitter.com/MagzCelyn)
-- Linkedin: [linkedin](https://www.linkedin.com/in/jocyline-magero-9592b0145/)
+- Github: [@github/Jmagero](https://github.com/Jmagero)
+- Twitter: [@twitter/MagzCelyn](https://twitter.com/MagzCelyn)
+- Linkedin: [linkedin/JocylineMagero](https://www.linkedin.com/in/jocyline-magero-9592b0145/)
 
 ## 🤝 Contributing
 
