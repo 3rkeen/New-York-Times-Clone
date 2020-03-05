@@ -1,4 +1,4 @@
-/*start HEADER start*/
+/* start HEADER start */
 
 .header-box {
   display: flex;
@@ -23,9 +23,9 @@
   color: black;
 }
 
-/*end HEADER end*/
+/* end HEADER end */
 
-/*start MAIN start*/
+/* start MAIN start */
 
 .article-1 p {
   font-size: 1.25rem;
@@ -96,9 +96,11 @@
   flex-basis: 10rem;
   justify-content: space-between;
 }
+
 .main-box .article-1 {
   width: 45%;
 }
+
 .main-box .article-2 {
   width: 45%;
 }
@@ -232,9 +234,9 @@ iframe {
   background-color: rgb(50, 104, 145);
 }
 
-/*end MAIN end*/
+/* end MAIN end */
 
-/*start ARTICLE start*/
+/* start ARTICLE start */
 
 .grid-box {
   display: grid;
@@ -245,17 +247,17 @@ iframe {
   width: 100%;
 }
 
+.grid-1 small {
+  display: block;
+  color: rgb(153, 153, 153);
+  font-family: nyt-imperial, georgia, "times new roman", times, serif;
+}
+
 .grid-1 span small {
   text-align: right;
   color: rgb(153, 153, 153);
   font-family: nyt-imperial, georgia, "times new roman", times, serif;
   font-size: x-small;
-}
-
-.grid-1 small {
-  display: block;
-  color: rgb(153, 153, 153);
-  font-family: nyt-imperial, georgia, "times new roman", times, serif;
 }
 
 .grid-1 {
@@ -282,7 +284,6 @@ iframe {
 .grid1-title2 {
   display: flex;
   grid-area: grid1-title2;
-
   border-top: 1px solid black;
 }
 
@@ -347,9 +348,9 @@ iframe {
   flex-basis: rem;
 }
 
-/*end ARTICLE end*/
+/* end ARTICLE end */
 
-/*start FOOTER start*/
+/* start FOOTER start */
 
 .footer-box {
   display: grid;
@@ -390,4 +391,4 @@ iframe {
   font-size: small;
 }
 
-/*end FOOTER end*/
+/* end FOOTER end */
