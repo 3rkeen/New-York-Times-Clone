@@ -203,8 +203,13 @@
 
 .inflation-img span {
   margin-top: 9rem;
-  margin-left: 1rem;
-  width: 12rem;
+  margin-left: 0.5rem;
+  width: 12.5rem;
+  line-height: 17px;
+  font-weight: 300;
+  font-family: nyt-franklin, arial, helvetica, sans-serif;
+  font-size: 14px;
+  color: #000000;
 }
 
 .inflation-description {
@@ -265,6 +270,10 @@ iframe {
 
 .article-box img {
   width: 100%;
+}
+
+.grid-1 img {
+  cursor: pointer;
 }
 
 .grid-1 small {
@@ -358,8 +367,12 @@ iframe {
 
 .grid-2 p {
   border-top: 1px solid gray;
-  padding: 1rem;
-  flex-basis: rem;
+  padding: 1rem 0 1rem 0;
+  color: rgb(18, 18, 18);
+  font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1.375rem;
 }
 
 .grid-2 h4 {
@@ -380,8 +393,13 @@ iframe {
 
 .footer-box a {
   text-decoration: none;
-  font-family: sans-serif;
+  font-family: nyt-franklin, arial, helvetica, sans-serif;
   color: black;
+  width: 150px;
+  font-size: 14px;
+  font-weight: 500;
+  height: 23px;
+  line-height: 16px;
 }
 
 .footer-row1 {
@@ -410,6 +428,11 @@ iframe {
 
 .footer-row3 a {
   font-size: small;
+}
+
+.css-r5ic95 {
+  width: 0.9rem;
+  height: 0.8rem;
 }
 
 .footer-row4 {
