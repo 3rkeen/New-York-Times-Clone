@@ -13,11 +13,11 @@ The essence of the project is to validate the use of CSS flexbox and grid to dev
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/3rkeen/New-York-Times-Clone/e8c00a0df43bed52713aa26968d2b3ea5fba6104/index.html)
+[Live Demo Link](https://rawcdn.githack.com/3rkeen/New-York-Times-Clone/233529653883c34dfcc09c10b8c07af25d84c63c/index.html)
 
 ## Getting Started
 
-Click once on the [Live Demo Link](https://rawcdn.githack.com/3rkeen/New-York-Times-Clone/e8c00a0df43bed52713aa26968d2b3ea5fba6104/index.html)
+Click once on the [Live Demo Link](https://rawcdn.githack.com/3rkeen/New-York-Times-Clone/233529653883c34dfcc09c10b8c07af25d84c63c/index.html)
 
 ## Authors
 
