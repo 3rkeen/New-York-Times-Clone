@@ -1,74 +1,44 @@
-# Project Name
+# New York Times Clone Webpage
 
-> One paragraph statement about the project.
+> This project is a clone of New York Times webpage.
 
-![screenshot](./app_screenshot.png)
+![screenshot](images/screenshot.PNG)
 
-Additional description about the project and its features.
+The essence of the project is to validate the use of CSS flexbox and grid to develop a webpage. This webpage contains Header, Article and Footer. The Header Section contains several icons, NYT logo and buttons to login or sign-up. The Article Section is the main part of the webpage where all article images, videos and paraghraphs have laid out. The Footer Section has different links to navigate other pages of the webpage. The Structure of the webpages has been structured by using Grid and Flexbox.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5,
+- CSS3,
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://rawcdn.githack.com/3rkeen/New-York-Times-Clone/6d97b3a72c2abcda7f449b5465317c6e3a4ca775/index.html)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Click once on the [Live Demo Link](https://rawcdn.githack.com/3rkeen/New-York-Times-Clone/6d97b3a72c2abcda7f449b5465317c6e3a4ca775/index.html)
 
 ## Authors
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- GitHub:[@github/3rkeen](https://github.com/3rkeen)
+- Twitter:[@twitter/3rkeen](https://twitter.com/3rkeen)
+- Linkedin:[linkedin/ErkinSheraliev](https://www.linkedin.com/in/erkin-sheraliev-9122631a0/)
 
 👤 **Author2**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@github/Jmagero](https://github.com/Jmagero)
+- Twitter: [@twitter/MagzCelyn](https://twitter.com/MagzCelyn)
+- Linkedin: [linkedin/JocylineMagero](https://www.linkedin.com/in/jocyline-magero-9592b0145/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/3rkeen/New-York-Times-Clone/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
